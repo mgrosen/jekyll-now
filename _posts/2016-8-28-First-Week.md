@@ -7,7 +7,8 @@ title: First Week
 This is the first installment in a series of blog posts I’m writing for you! - so long as you are University of Texas student interested in taking Glen Downing’s Software engineering course. Many times we students take courses for any of three reasons:
 * To satisfy a degree requirement 
 * We have a career or academic interest in the learning outcomes of the course 
-* Or simply because the course description is really cool and we need to maintain a certain number of hours each semester. 
+* Or simply because the course description is really cool and we need to maintain a certain number of hours each semester.
+
 Each person has their own way of choosing courses, but one thing every student searches for before deciding their registration is student recommendations. We want to know what the professor is like, what the work load is like, and whether the course is going to be beneficial to our education – which looks different for each person. I’ll be posting blogs weekly on a variety of topics that are meant to convey the experience I am having in the course to you. I hope my blog can help you decide whether this course is worth your time.
 
 ## This week I’ll be answering the following

@@ -3,7 +3,7 @@ layout: post
 title: First Week
 ---
 
-# Why am I blogging?
+# To a Prospective Student
 This is the first installment in a series of blog posts I’m writing for you! - so long as you are University of Texas student interested in taking Glen Downing’s Software engineering course. Many times we students take courses for any of three reasons:
 * To satisfy a degree requirement 
 * We have a career or academic interest in the learning outcomes of the course 

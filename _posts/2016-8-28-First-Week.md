@@ -13,9 +13,11 @@ Each person has their own way of choosing courses, but one thing every student s
 ## This week I’ll be answering the following
 
 ### What did you do this past week?
-  Classes started! This week we were introduced to the development framework and materials we will be using for the course. I have a lot of software to become familiar with, which excites me since I have never had software engineering work experience. I'm particularly excited to learn how to use unittest, coverage, and Travis CI together (which helps to automate testing in Python)
+  Classes started! This week we were introduced to the development framework and materials we will be using for the course. I have a lot of software to become familiar with, which excites me since I have never had software engineering work experience. I'm particularly excited to learn how to use unittest, coverage, and Travis CI together (which helps to automate testing in Python).
+  
 ### What's in your way?
   I have another class immediately before software engineering at 11:00 AM in the UTC that gets out at 10:50 AM in the Music building. If you know these two buildings, then you know that it’s a 15 minute walk from one to the other. The problem here is that it looks like I’m going to be late to class every day until something changes. Did you know that daily quizzes start at the beginning of class and end when I show up?
+  
 ### What will you do next week?
   I plan on using a bicycle to see if I can improve my travel time enough to make it to class on time. If that does not work, I will ask the professor of my early class if I can leave 5 minutes early. If the problem is not solvable by Friday, I will consider changing my class schedule.
 

@@ -9,7 +9,7 @@ This is the first installment in a series of blog posts I’m writing for you! -
 * We have a career or academic interest in the learning outcomes of the course 
 * Or simply because the course description is really cool and we need to maintain a certain number of hours each semester. 
 Each person has their own way of choosing courses, but one thing every student searches for before deciding their registration is student recommendations. We want to know what the professor is like, what the work load is like, and whether the course is going to be beneficial to our education – which looks different for each person. I’ll be posting blogs weekly on a variety of topics that are meant to convey the experience I am having in the course to you. I hope my blog can help you decide whether this course is worth your time.
-## This week I’ll be answering the following questions:
+## This week I’ll be answering the following
 ### What did you do this past week?
   Classes started! This week we were introduced to the development framework and materials we will be using for the course. I have a lot of software to become familiar with, which excites me since I have never had software engineering work experience. I'm particularly excited to learn how to use unittest, coverage, and Travis CI together (which helps to automate testing in Python)
 ### What's in your way?

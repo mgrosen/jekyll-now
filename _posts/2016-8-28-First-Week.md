@@ -25,4 +25,4 @@ Each person has their own way of choosing courses, but one thing every student s
 ## Tip of the week
 Take the location of your classes into consideration! A quick navigation search on Google Maps would show you that you might not be able to get to class on time.
 
-![mrh to utc maps](https://github.com/mgrosen/mgrosen.github.io/images/music_utc_map.PNG)
+

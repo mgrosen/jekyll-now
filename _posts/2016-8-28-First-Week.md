@@ -23,6 +23,4 @@ Each person has their own way of choosing courses, but one thing every student s
   I plan on using a bicycle to see if I can improve my travel time enough to make it to class on time. If that does not work, I will ask the professor of my early class if I can leave 5 minutes early. If the problem is not solvable by Friday, I will consider changing my class schedule.
 
 ## Tip of the week
-Take the location of your classes into consideration! A quick navigation search on Google Maps would show you that you might not be able to get to class on time.
-
-![mrh to utc maps]({{ site.url }}/images/music_utc_map.PNG)
+Take the location of your classes into consideration! A quick navigation search on Google Maps would show you that you might not be able to get to class on time. ![mrh to utc maps](https://github.com/mgrosen/mgrosen.github.io/blob/master/images/music_utc_map.PNG)

@@ -1,3 +1,8 @@
+---
+layout: post
+title: First Week
+---
+
 #August 29 - September 4
 * What did you do this past week?
     - This past week I started reading the textbooks. Both Javascript: the Good Parts and Extreme Programming: Installed have been

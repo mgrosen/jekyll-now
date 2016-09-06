@@ -4,6 +4,7 @@ title: Second Week
 ---
 
 # August 29 - September 4
+
 ## What did you do this past week?
 
 This past week I started reading the textbooks. Both Javascript: the Good Parts and Extreme Programming: Installed have been very enjoyable and straight forward books to read - something I actually encourage you as a developer to read whether or not you decide to take the course. I also started setting up the Github repositories for this class. I was already familiar with git and Github, but some excellent resources and instructions are provided so that you would be able to git going quickly if you have not had the opportunity to work with Github before.

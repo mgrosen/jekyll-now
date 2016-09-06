@@ -17,7 +17,8 @@ for three hours everyday afterschool where I could do some coding.
 ##What will you do next week?
 Following that up, this next week I will set up Docker on my machine so that I can have all the tools necessary to develop
 when I have the chance at work. Also, I intend to finish project one. 
-    
+
+###The Experience in General    
 I'm really excited about an optimization that I thought of when my roommate and I, who are both studying Computer Science and both 
 named Matthew, were talking about an algorithm used to solve an entirely different problem. It's times like this where I realize 
 how important it is to be around other computer scientists, students, and developers - often simply talking through the problem 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Week
+title: Second Week
 ---
 
 #August 29 - September 4
